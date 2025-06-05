@@ -1,4 +1,5 @@
-!(vqa_norsk.pdf)
+!![Examples](vqa_norsk.pdf)
+
 
 ### Publication
 Pal, Ratnabali, Samarjit Kar, and Dilip K. Prasad. ``NorViVQA: Visual Question Answering 
