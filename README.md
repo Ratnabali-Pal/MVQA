@@ -1,4 +1,4 @@
-!![Examples](vqa_norsk.jpg)
+![Examples](vqa_norsk.jpg)
 
 
 ### Publication
