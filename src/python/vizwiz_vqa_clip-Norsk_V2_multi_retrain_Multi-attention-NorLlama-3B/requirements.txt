@@ -1,0 +1,22 @@
+# File: requirements.txt
+
+# For data handling and machine learning
+pandas
+numpy
+scikit-learn
+torch
+torchvision
+tqdm
+
+# For language and vision models
+transformers
+ftfy
+regex
+git+https://github.com/openai/CLIP.git
+multilingual_clip
+flax
+jax[cuda11]
+tf-keras
+
+# For visualization
+matplotlib
