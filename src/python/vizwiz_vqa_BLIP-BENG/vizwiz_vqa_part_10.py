@@ -1,0 +1,1 @@
+val_df['answer'].nunique()
