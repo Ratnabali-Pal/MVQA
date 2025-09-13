@@ -1,0 +1,14 @@
+#copyable python code
+# It's recommended to install CLIP directly from github
+# pip install git+https://github.com/openai/CLIP.git
+
+matplotlib
+numpy
+pandas
+torch
+scikit-learn
+Pillow
+tqdm
+plotly
+nltk
+openpyxl
