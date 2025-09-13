@@ -7,6 +7,7 @@ for Visually Impaired in Norwegian Language" NAIS 2025: Symposium of the Norwegi
 Society, June 17--18, 2025, Tromsø, Norway.
 
 [Link to The Paper: https://ceur-ws.org/Vol-3975/paper3.pdf ]
+5.	Pal, Ratnabali, Samarjit Kar, Dilip K. Prasad, and Arif Ahmed Sekh. "Multilingual visual question answering for visually impaired people."  Discov Artif Intell 5, 226 (2025). https://doi.org/10.1007/s44163-025-00482-8
 
 ### Abstract
  Designing a visual question answering (VQA) system for low-resource languages is challenging. Yet, it has
