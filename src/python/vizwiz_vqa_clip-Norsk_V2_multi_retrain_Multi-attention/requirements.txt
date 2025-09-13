@@ -1,0 +1,13 @@
+git+https://github.com/openai/CLIP.git
+matplotlib
+numpy
+pandas
+torch
+Pillow
+tqdm
+scikit-learn
+transformers
+flax
+jax[cuda11]
+tf-keras
+multilingual_clip
